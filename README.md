@@ -1,4 +1,7 @@
-## App.js passing information to Person.js Component
+## React-Passing-Method-References-Between-Components
+
+App.js passing information to Person.js Component
+
 
 1- Passing Function as Reference
 2- Changing state
